@@ -1,3 +1,5 @@
+The following m files are included:
+
 discrimination_MLE.m
 Calculates the discrimination ability of a given population of neurons.
 This program may take an hour to run
